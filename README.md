@@ -1,1 +1,0 @@
-# Funpay-Auto-Email-Steam-Guard
