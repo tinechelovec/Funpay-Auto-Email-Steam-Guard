@@ -25,4 +25,4 @@ EMAIL_PASSWORD=password
 
 По всем багам, вопросам и предложеням пишите в [Issues](https://github.com/tinechelovec/Funpay-Auto-Email-Steam-Guard/issues) или в [Telegram](https://t.me/tinechelovec)
 
-Другие боты [Channel](https://t.me/by_thc)
+Другие боты и плагины [Channel](https://t.me/by_thc)
