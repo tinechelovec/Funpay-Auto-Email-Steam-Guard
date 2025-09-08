@@ -1,0 +1,5 @@
+imaplib
+email
+beautifulsoup4
+python-dotenv
+logging
