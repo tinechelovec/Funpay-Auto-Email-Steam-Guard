@@ -7,7 +7,7 @@
 
 Это Python-скрипт, который:      
 ✔ Автоматически получает коды Steam Guard из электронной почты  
-✔ Интегрируется с FunPay для обработки команд  
+✔ Можно добавлять более одного аккаунта   
 ✔ Поддерживает IMAP для чтения писем от Steam  
 ✔ Автоматически парсит и отправляет коды по запросу  
 
@@ -18,10 +18,12 @@
 3. Настройка .env
 ```
 FUNPAY_AUTH_TOKEN=golden_key
-EMAIL_ADDRESS=@mail.ru
-EMAIL_PASSWORD=password
+EMAIL01=mail@gmail.ru
+PASSWORD_0=PASSWORD_0
+COMMAND_0=!код
+DAILY_LIMIT_0=любые
+PERIOD_HOURS_0=любые
 ```
-4. Если сделали все праильно, то по команде ```!код```, код от Steam Guard будет приходить.
 
 По всем багам, вопросам и предложеням пишите в [Issues](https://github.com/tinechelovec/Funpay-Auto-Email-Steam-Guard/issues) или в [Telegram](https://t.me/tinechelovec)
 
